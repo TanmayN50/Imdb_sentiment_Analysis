@@ -1,0 +1,7 @@
+Before running the app:
+1. In Colab, download imdb_sentiment_model.keras and imdb_vectorizer.pkl.
+2. Copy both files into this folder, beside app.py.
+3. Install dependencies: pip install -r requirements.txt
+4. Run: streamlit run app.py
+
+This bundle contains the app and documentation template only. Your trained model/vectorizer are not included because they must come from your Colab session.
